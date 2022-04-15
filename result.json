@@ -2,829 +2,760 @@
   {
     "Model": "iPhone 13",
     "LogicalWidth": 390,
-    "LogicalHeight": "844",
+    "LogicalHeight": 844,
     "PhysicalWidth": 1170,
     "PhysicalHeight": 2532,
     "PPI": 460,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.06,
-    "Release": "2021-09-14",
-    "logicalHeight": 844
+    "Release": "2021-09-14"
   },
   {
     "Model": "iPhone 13 mini",
     "LogicalWidth": 375,
-    "LogicalHeight": "812",
+    "LogicalHeight": 812,
     "PhysicalWidth": 1080,
     "PhysicalHeight": 2340,
     "PPI": 476,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.42,
-    "Release": "2021-09-14",
-    "logicalHeight": 812
+    "Release": "2021-09-14"
   },
   {
     "Model": "iPhone 13 Pro Max",
     "LogicalWidth": 428,
-    "LogicalHeight": "926",
+    "LogicalHeight": 926,
     "PhysicalWidth": 1284,
     "PhysicalHeight": 2778,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.68,
-    "Release": "2021-09-14",
-    "logicalHeight": 926
+    "Release": "2021-09-14"
   },
   {
     "Model": "iPhone 13 Pro",
     "LogicalWidth": 390,
-    "LogicalHeight": "844",
+    "LogicalHeight": 844,
     "PhysicalWidth": 1170,
     "PhysicalHeight": 2532,
     "PPI": 460,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.06,
-    "Release": "2021-09-14",
-    "logicalHeight": 844
+    "Release": "2021-09-14"
   },
   {
     "Model": "iPhone 12",
     "LogicalWidth": 390,
-    "LogicalHeight": "844",
+    "LogicalHeight": 844,
     "PhysicalWidth": 1170,
     "PhysicalHeight": 2532,
     "PPI": 460,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.06,
-    "Release": "2020-10-13",
-    "logicalHeight": 844
+    "Release": "2020-10-13"
   },
   {
     "Model": "iPhone 12 mini",
     "LogicalWidth": 375,
-    "LogicalHeight": "812",
+    "LogicalHeight": 812,
     "PhysicalWidth": 1080,
     "PhysicalHeight": 2340,
     "PPI": 476,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.42,
-    "Release": "2020-10-13",
-    "logicalHeight": 812
+    "Release": "2020-10-13"
   },
   {
     "Model": "iPhone 12 Pro Max",
     "LogicalWidth": 428,
-    "LogicalHeight": "926",
+    "LogicalHeight": 926,
     "PhysicalWidth": 1284,
     "PhysicalHeight": 2778,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.68,
-    "Release": "2020-10-13",
-    "logicalHeight": 926
+    "Release": "2020-10-13"
   },
   {
     "Model": "iPhone 12 Pro",
     "LogicalWidth": 390,
-    "LogicalHeight": "844",
+    "LogicalHeight": 844,
     "PhysicalWidth": 1170,
     "PhysicalHeight": 2532,
     "PPI": 460,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.06,
-    "Release": "2020-10-13",
-    "logicalHeight": 844
+    "Release": "2020-10-13"
   },
   {
     "Model": "iPhone SE 2nd gen",
     "LogicalWidth": 375,
-    "LogicalHeight": "667",
+    "LogicalHeight": 667,
     "PhysicalWidth": 750,
     "PhysicalHeight": 1334,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4.7,
-    "Release": "2020-04-24",
-    "logicalHeight": 667
+    "Release": "2020-04-24"
   },
   {
     "Model": "iPhone 11 Pro Max",
     "LogicalWidth": 414,
-    "LogicalHeight": "896",
+    "LogicalHeight": 896,
     "PhysicalWidth": 1242,
     "PhysicalHeight": 2688,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.46,
-    "Release": "2019-09-20",
-    "logicalHeight": 896
+    "Release": "2019-09-20"
   },
   {
     "Model": "iPhone 11 Pro",
     "LogicalWidth": 375,
-    "LogicalHeight": "812",
+    "LogicalHeight": 812,
     "PhysicalWidth": 1125,
     "PhysicalHeight": 2436,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.85,
-    "Release": "2019-09-20",
-    "logicalHeight": 812
+    "Release": "2019-09-20"
   },
   {
     "Model": "iPhone 11",
     "LogicalWidth": 414,
-    "LogicalHeight": "896",
+    "LogicalHeight": 896,
     "PhysicalWidth": 828,
     "PhysicalHeight": 1792,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 6.1,
-    "Release": "2019-09-20",
-    "logicalHeight": 896
+    "Release": "2019-09-20"
   },
   {
     "Model": "iPhone XR",
     "LogicalWidth": 414,
-    "LogicalHeight": "896",
+    "LogicalHeight": 896,
     "PhysicalWidth": 828,
     "PhysicalHeight": 1792,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 6.06,
-    "Release": "2018-10-26",
-    "logicalHeight": 896
+    "Release": "2018-10-26"
   },
   {
     "Model": "iPhone XS Max",
     "LogicalWidth": 414,
-    "LogicalHeight": "896",
+    "LogicalHeight": 896,
     "PhysicalWidth": 1242,
     "PhysicalHeight": 2688,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 6.46,
-    "Release": "2018-09-21",
-    "logicalHeight": 896
+    "Release": "2018-09-21"
   },
   {
     "Model": "iPhone XS",
     "LogicalWidth": 375,
-    "LogicalHeight": "812",
+    "LogicalHeight": 812,
     "PhysicalWidth": 1125,
     "PhysicalHeight": 2436,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.85,
-    "Release": "2018-09-21",
-    "logicalHeight": 812
+    "Release": "2018-09-21"
   },
   {
     "Model": "iPhone X",
     "LogicalWidth": 375,
-    "LogicalHeight": "812",
+    "LogicalHeight": 812,
     "PhysicalWidth": 1125,
     "PhysicalHeight": 2436,
     "PPI": 458,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.85,
-    "Release": "2017-11-03",
-    "logicalHeight": 812
+    "Release": "2017-11-03"
   },
   {
     "Model": "iPhone 8 Plus",
     "LogicalWidth": 414,
-    "LogicalHeight": "736",
+    "LogicalHeight": 736,
     "PhysicalWidth": 1080,
     "PhysicalHeight": 1920,
     "PPI": 401,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.5,
-    "Release": "2017-09-22",
-    "logicalHeight": 736
+    "Release": "2017-09-22"
   },
   {
     "Model": "iPhone 8",
     "LogicalWidth": 375,
-    "LogicalHeight": "667",
+    "LogicalHeight": 667,
     "PhysicalWidth": 750,
     "PhysicalHeight": 1334,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4.7,
-    "Release": "2017-09-22",
-    "logicalHeight": 667
+    "Release": "2017-09-22"
   },
   {
     "Model": "iPhone 7 Plus",
     "LogicalWidth": 476,
-    "LogicalHeight": "847",
+    "LogicalHeight": 847,
     "PhysicalWidth": 1242,
     "PhysicalHeight": 2208,
     "PPI": 401,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.5,
-    "Release": "2016-09-16",
-    "logicalHeight": 847
+    "Release": "2016-09-16"
   },
   {
     "Model": "iPhone 7",
     "LogicalWidth": 375,
-    "LogicalHeight": "667",
+    "LogicalHeight": 667,
     "PhysicalWidth": 750,
     "PhysicalHeight": 1334,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4.7,
-    "Release": "2016-09-16",
-    "logicalHeight": 667
+    "Release": "2016-09-16"
   },
   {
     "Model": "iPhone SE 1st gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2016-03-31",
-    "logicalHeight": 568
+    "Release": "2016-03-31"
   },
   {
     "Model": "iPhone 6s Plus",
     "LogicalWidth": 476,
-    "LogicalHeight": "847",
+    "LogicalHeight": 847,
     "PhysicalWidth": 1242,
     "PhysicalHeight": 2208,
     "PPI": 401,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.5,
-    "Release": "2015-09-25",
-    "logicalHeight": 847
+    "Release": "2015-09-25"
   },
   {
     "Model": "iPhone 6s",
     "LogicalWidth": 375,
-    "LogicalHeight": "667",
+    "LogicalHeight": 667,
     "PhysicalWidth": 750,
     "PhysicalHeight": 1334,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4.7,
-    "Release": "2015-09-25",
-    "logicalHeight": 667
+    "Release": "2015-09-25"
   },
   {
     "Model": "iPhone 6 Plus",
     "LogicalWidth": 476,
-    "LogicalHeight": "847",
+    "LogicalHeight": 847,
     "PhysicalWidth": 1242,
     "PhysicalHeight": 2208,
     "PPI": 401,
     "ScaleFactor": 3,
     "ScreenDiagonal": 5.5,
-    "Release": "2014-09-19",
-    "logicalHeight": 847
+    "Release": "2014-09-19"
   },
   {
     "Model": "iPhone 6",
     "LogicalWidth": 375,
-    "LogicalHeight": "667",
+    "LogicalHeight": 667,
     "PhysicalWidth": 750,
     "PhysicalHeight": 1334,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4.7,
-    "Release": "2014-09-19",
-    "logicalHeight": 667
+    "Release": "2014-09-19"
   },
   {
     "Model": "iPhone 5C",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2013-09-20",
-    "logicalHeight": 568
+    "Release": "2013-09-20"
   },
   {
     "Model": "iPhone 5S",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2013-09-20",
-    "logicalHeight": 568
+    "Release": "2013-09-20"
   },
   {
     "Model": "iPhone 5",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2012-09-21",
-    "logicalHeight": 568
+    "Release": "2012-09-21"
   },
   {
     "Model": "iPhone 4S",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 640,
     "PhysicalHeight": 960,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 3.5,
-    "Release": "2011-10-14",
-    "logicalHeight": 480
+    "Release": "2011-10-14"
   },
   {
     "Model": "iPhone 4",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 640,
     "PhysicalHeight": 960,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 3.5,
-    "Release": "2010-06-21",
-    "logicalHeight": 480
+    "Release": "2010-06-21"
   },
   {
     "Model": "iPhone 3GS",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 320,
     "PhysicalHeight": 480,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 3.5,
-    "Release": "2009-06-19",
-    "logicalHeight": 480
+    "Release": "2009-06-19"
   },
   {
     "Model": "iPhone 3G",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 320,
     "PhysicalHeight": 480,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 3.5,
-    "Release": "2008-07-11",
-    "logicalHeight": 480
+    "Release": "2008-07-11"
   },
   {
     "Model": "iPhone 1st gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 320,
     "PhysicalHeight": 480,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 3.5,
-    "Release": "2007-06-29",
-    "logicalHeight": 480
+    "Release": "2007-06-29"
   },
   {
     "Model": "iPad Mini (6th gen)",
     "LogicalWidth": 744,
-    "LogicalHeight": "1133",
+    "LogicalHeight": 1133,
     "PhysicalWidth": 1488,
     "PhysicalHeight": 2266,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 8.3,
-    "Release": "2019-03-18",
-    "logicalHeight": 1133
+    "Release": "2019-03-18"
   },
   {
     "Model": "iPad 9th gen",
     "LogicalWidth": 810,
-    "LogicalHeight": "1080",
+    "LogicalHeight": 1080,
     "PhysicalWidth": 1620,
     "PhysicalHeight": 2160,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 10.2,
-    "Release": "2021-09-14",
-    "logicalHeight": 1080
+    "Release": "2021-09-14"
   },
   {
     "Model": "iPad Pro (5th gen 12.9\")",
     "LogicalWidth": 1024,
-    "LogicalHeight": "1366",
+    "LogicalHeight": 1366,
     "PhysicalWidth": 2048,
     "PhysicalHeight": 2732,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 12.9,
-    "Release": "2021-05-21",
-    "logicalHeight": 1366
+    "Release": "2021-05-21"
   },
   {
     "Model": "iPad Pro (5th gen 11\")",
     "LogicalWidth": 834,
-    "LogicalHeight": "1194",
+    "LogicalHeight": 1194,
     "PhysicalWidth": 1668,
     "PhysicalHeight": 2388,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 11,
-    "Release": "2021-05-21",
-    "logicalHeight": 1194
+    "Release": "2021-05-21"
   },
   {
     "Model": "iPad Air (4th gen)",
     "LogicalWidth": 820,
-    "LogicalHeight": "1180",
+    "LogicalHeight": 1180,
     "PhysicalWidth": 1640,
     "PhysicalHeight": 2360,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 10.9,
-    "Release": "2020-10-23",
-    "logicalHeight": 1180
+    "Release": "2020-10-23"
   },
   {
     "Model": "iPad 8th gen",
     "LogicalWidth": 810,
-    "LogicalHeight": "1080",
+    "LogicalHeight": 1080,
     "PhysicalWidth": 1620,
     "PhysicalHeight": 2160,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 10.2,
-    "Release": "2020-09-18",
-    "logicalHeight": 1080
+    "Release": "2020-09-18"
   },
   {
     "Model": "iPad Pro (4th gen 12.9\")",
     "LogicalWidth": 1024,
-    "LogicalHeight": "1366",
+    "LogicalHeight": 1366,
     "PhysicalWidth": 2048,
     "PhysicalHeight": 2732,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 12.9,
-    "Release": "2020-03-25",
-    "logicalHeight": 1366
+    "Release": "2020-03-25"
   },
   {
     "Model": "iPad Pro (4th gen 11\")",
     "LogicalWidth": 834,
-    "LogicalHeight": "1194",
+    "LogicalHeight": 1194,
     "PhysicalWidth": 1668,
     "PhysicalHeight": 2388,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 11,
-    "Release": "2020-03-25",
-    "logicalHeight": 1194
+    "Release": "2020-03-25"
   },
   {
     "Model": "iPad 7th gen",
     "LogicalWidth": 810,
-    "LogicalHeight": "1080",
+    "LogicalHeight": 1080,
     "PhysicalWidth": 1620,
     "PhysicalHeight": 2160,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 10.2,
-    "Release": "2019-09-25",
-    "logicalHeight": 1080
+    "Release": "2019-09-25"
   },
   {
     "Model": "iPad Mini (5th gen)",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 7.9,
-    "Release": "2019-03-18",
-    "logicalHeight": 1024
+    "Release": "2019-03-18"
   },
   {
     "Model": "iPad Air (3rd gen)",
     "LogicalWidth": 834,
-    "LogicalHeight": "1112",
+    "LogicalHeight": 1112,
     "PhysicalWidth": 1668,
     "PhysicalHeight": 2224,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 10.5,
-    "Release": "2019-03-18",
-    "logicalHeight": 1112
+    "Release": "2019-03-18"
   },
   {
     "Model": "iPad Pro (3rd gen 12.9\")",
     "LogicalWidth": 1024,
-    "LogicalHeight": "1366",
+    "LogicalHeight": 1366,
     "PhysicalWidth": 2048,
     "PhysicalHeight": 2732,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 12.9,
-    "Release": "2018-11-07",
-    "logicalHeight": 1366
+    "Release": "2018-11-07"
   },
   {
     "Model": "iPad Pro (3rd gen 11\")",
     "LogicalWidth": 834,
-    "LogicalHeight": "1194",
+    "LogicalHeight": 1194,
     "PhysicalWidth": 1668,
     "PhysicalHeight": 2388,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 11,
-    "Release": "2018-11-07",
-    "logicalHeight": 1194
+    "Release": "2018-11-07"
   },
   {
     "Model": "iPad 6th gen",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2018-03-27",
-    "logicalHeight": 1024
+    "Release": "2018-03-27"
   },
   {
     "Model": "iPad Pro (2nd gen 12.9\")",
     "LogicalWidth": 1024,
-    "LogicalHeight": "1366",
+    "LogicalHeight": 1366,
     "PhysicalWidth": 2048,
     "PhysicalHeight": 2732,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 12.9,
-    "Release": "2017-06-13",
-    "logicalHeight": 1366
+    "Release": "2017-06-13"
   },
   {
     "Model": "iPad Pro (2nd gen 10.5\")",
     "LogicalWidth": 834,
-    "LogicalHeight": "1112",
+    "LogicalHeight": 1112,
     "PhysicalWidth": 1668,
     "PhysicalHeight": 2224,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 10.5,
-    "Release": "2017-06-13",
-    "logicalHeight": 1112
+    "Release": "2017-06-13"
   },
   {
     "Model": "iPad 5th gen",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2017-03-24",
-    "logicalHeight": 1024
+    "Release": "2017-03-24"
   },
   {
     "Model": "iPad Pro (1st gen 9.7”)",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2016-03-31",
-    "logicalHeight": 1024
+    "Release": "2016-03-31"
   },
   {
     "Model": "iPad Pro (1st gen 12.9\")",
     "LogicalWidth": 1024,
-    "LogicalHeight": "1366",
+    "LogicalHeight": 1366,
     "PhysicalWidth": 2048,
     "PhysicalHeight": 2732,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 12.9,
-    "Release": "2015-11-11",
-    "logicalHeight": 1366
+    "Release": "2015-11-11"
   },
   {
     "Model": "iPad mini 4",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 7.9,
-    "Release": "2015-09-09",
-    "logicalHeight": 1024
+    "Release": "2015-09-09"
   },
   {
     "Model": "iPad Air 2",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2014-10-22",
-    "logicalHeight": 1024
+    "Release": "2014-10-22"
   },
   {
     "Model": "iPad mini 3",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 7.9,
-    "Release": "2014-10-22",
-    "logicalHeight": 1024
+    "Release": "2014-10-22"
   },
   {
     "Model": "iPad mini 2",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 7.9,
-    "Release": "2013-11-12",
-    "logicalHeight": 1024
+    "Release": "2013-11-12"
   },
   {
     "Model": "iPad Air",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2013-11-01",
-    "logicalHeight": 1024
+    "Release": "2013-11-01"
   },
   {
     "Model": "iPad 4th gen",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2012-11-12",
-    "logicalHeight": 1024
+    "Release": "2012-11-12"
   },
   {
     "Model": "iPad mini",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 768,
     "PhysicalHeight": 1024,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 7.9,
-    "Release": "2012-11-02",
-    "logicalHeight": 1024
+    "Release": "2012-11-02"
   },
   {
     "Model": "iPad 3rd gen",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 1536,
     "PhysicalHeight": 2048,
     "PPI": 264,
     "ScaleFactor": 2,
     "ScreenDiagonal": 9.7,
-    "Release": "2012-03-16",
-    "logicalHeight": 1024
+    "Release": "2012-03-16"
   },
   {
     "Model": "iPad 2",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 768,
     "PhysicalHeight": 1024,
     "PPI": 132,
     "ScaleFactor": 1,
     "ScreenDiagonal": 9.7,
-    "Release": "2011-03-11",
-    "logicalHeight": 1024
+    "Release": "2011-03-11"
   },
   {
     "Model": "iPad 1st gen",
     "LogicalWidth": 768,
-    "LogicalHeight": "1024",
+    "LogicalHeight": 1024,
     "PhysicalWidth": 768,
     "PhysicalHeight": 1024,
     "PPI": 132,
     "ScaleFactor": 1,
     "ScreenDiagonal": 9.7,
-    "Release": "2010-04-03",
-    "logicalHeight": 1024
+    "Release": "2010-04-03"
   },
   {
     "Model": "iPod touch 7th gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2019-05-28",
-    "logicalHeight": 568
+    "Release": "2019-05-28"
   },
   {
     "Model": "iPod touch 6th gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2015-07-15",
-    "logicalHeight": 568
+    "Release": "2015-07-15"
   },
   {
     "Model": "iPod touch 5th gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "568",
+    "LogicalHeight": 568,
     "PhysicalWidth": 640,
     "PhysicalHeight": 1136,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 4,
-    "Release": "2012-10-11",
-    "logicalHeight": 568
+    "Release": "2012-10-11"
   },
   {
     "Model": "iPod touch 4th gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 640,
     "PhysicalHeight": 960,
     "PPI": 326,
     "ScaleFactor": 2,
     "ScreenDiagonal": 3.5,
-    "Release": "2010-09-01",
-    "logicalHeight": 480
+    "Release": "2010-09-01"
   },
   {
     "Model": "iPod touch 3rd gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 320,
     "PhysicalHeight": 480,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 3.5,
-    "Release": "2009-09-09",
-    "logicalHeight": 480
+    "Release": "2009-09-09"
   },
   {
     "Model": "iPod touch 2nd gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 320,
     "PhysicalHeight": 480,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 3.5,
-    "Release": "2008-09-09",
-    "logicalHeight": 480
+    "Release": "2008-09-09"
   },
   {
     "Model": "iPod touch 1st gen",
     "LogicalWidth": 320,
-    "LogicalHeight": "480",
+    "LogicalHeight": 480,
     "PhysicalWidth": 320,
     "PhysicalHeight": 480,
     "PPI": 163,
     "ScaleFactor": 1,
     "ScreenDiagonal": 3.5,
-    "Release": "2007-09-05",
-    "logicalHeight": 480
+    "Release": "2007-09-05"
   }
 ]

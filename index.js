@@ -82,7 +82,7 @@ async function main() {
   let result = await scrape("https://www.ios-resolution.com/");
   for (data of result) {
     data["LogicalWidth"] = parseInt(data["LogicalWidth"]);
-    data["logicalHeight"] = parseInt(data["LogicalHeight"]);
+    data["LogicalHeight"] = parseInt(data["LogicalHeight"]);
     data["PhysicalWidth"] = parseInt(data["PhysicalWidth"]);
     data["PhysicalHeight"] = parseInt(data["PhysicalHeight"]);
     data["PPI"] = parseInt(data["PPI"]);
@@ -91,6 +91,7 @@ async function main() {
       data["ScreenDiagonal"].replace('"', "")
     );
   }
+  browser.clear();
   fs.writeFileSync("result.json", JSON.stringify(result));
 }
 
